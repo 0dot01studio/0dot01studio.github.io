@@ -13,13 +13,13 @@
 	width: 100%
 }
 body {
-	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Montserrat, "Helvetica Neue","Apple LiGothic Medium", "微軟正黑體", "Microsoft JhengHei", Helvetica, Arial, sans-serif;
 	color: #fff;
 	webkit-tap-highlight-color: rgba(255,255,255,.2)
 }
 .btn, .navbar-custom, h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
-	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif
+	font-family: Montserrat, "Helvetica Neue","Apple LiGothic Medium", "微軟正黑體", "Microsoft JhengHei", Helvetica, Arial, sans-serif
 }
 h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 35px;
@@ -256,9 +256,7 @@ a:focus, a:hover {
 .ChaMob12 {
 	background-image:url(../img/ChaMob12.png);
 }
-.ChaMob13 {
-	background-image:url(../img/ChaMob13.png);
-}
+
 @media (min-width:640px) {
 .CharacterMob {
 	width:100%;
@@ -427,9 +425,6 @@ p {
 }
 .ChaTop12 {
 	background-image:url(../img/ChaTop12.png);
-}
-.ChaTop13 {
-	background-image:url(../img/ChaTop13.png);
 }
 }
 @media (min-width:1024px) {

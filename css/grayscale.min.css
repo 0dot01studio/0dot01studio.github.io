@@ -431,6 +431,13 @@ p {
 .DeviceBackground{
 	display:none;
 }
+.PreBtn {
+	width:60px;
+	height:200px;
+	margin-top:-100px;
+	top:50%;
+	right:10%;
+}
 .Movie{
 	left:0;
 	right:0;

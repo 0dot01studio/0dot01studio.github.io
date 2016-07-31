@@ -540,7 +540,10 @@ $(function(){
             alert('18x');
         }else{
             FB.ui({
-                method: 'send',
+              method: 'send',
+              display:'iframe',
+              to:1500262703601488,
+              link: 'https://kchsu.azurewebsites.net/onl/payment/?p1=1&p2=1&p3=1'
             })
         }
     });
